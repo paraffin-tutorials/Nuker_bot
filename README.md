@@ -18,7 +18,7 @@
 - در صورت نزدن تعداد چنل 10 چنل و در صورت نزدن اسم چنل ها با نام گت اسپمد ساخته میشوند.<br>
 
 <br>
-	مثال:<br><br>
+	مثال:<br>
 !spam 100 "subscribe paraffin"<br>
 !spam (creates 10 channels named 'get-spammed')
 
@@ -66,9 +66,13 @@
 > اسپم مسیج در تمام چنل ها.<br>
 - نیازمند پریمیشن سند مسیج.<br>
 - در صورت نزدن تعداد به صورت پیش فرض ۱۰ پیام داده میشود.<br>
-
+<br>
 	مثال:<br>
-!alert "make sure to subscribe to paraffin @everyone" 12 
+!alert "make sure to subscribe to paraffin @everyone" 12 <br>
+
+
 <br><br><br><br>
+
+
 **❤ Subscribe : https://www.youtube.com/channel/UCo-JLhrtWMQ2xZhJAk8n-pw**
 
