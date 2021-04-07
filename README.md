@@ -8,7 +8,7 @@
 > پاک کردن تمام چنل های سرور.
 - نیازمند پریمیشن منیج چنل
 <br>
-	مثال:
+	مثال:<br>
 !nuk
 <br><br>
 
@@ -18,8 +18,8 @@
 - در صورت نزدن تعداد چنل 10 چنل و در صورت نزدن اسم چنل ها با نام گت اسپمد ساخته میشوند.<br>
 
 <br>
-	مثال:
-!spam 100 "subscribe paraffin" | 
+	مثال:<br><br>
+!spam 100 "subscribe paraffin"<br>
 !spam (creates 10 channels named 'get-spammed')
 
 <br><br>
@@ -29,8 +29,8 @@
 - با نزدن اسم ممبر تمام ممبر ها بن میشوند.<br>
 
 <br>
-	مثال:
-!ban "-its^Parsa^#0189" | 
+	مثال:<br>
+!ban "-its^Parsa^#0189"<br>
 !ban (bans everyone possible)
 
 <br><br>
@@ -39,8 +39,8 @@
 - نیازمند پریمیشن کیک ممبرز.<br>
 - با نزدن اسم ممبر تمام ممبر ها کیک میشوند.<br>
 <br>
-	مثال:
-!kick "-its^Parsa^#0189" | 
+	مثال:<br>
+!kick "-its^Parsa^#0189"<br>
 !kick (kicks everyone possible)
 <br><br>
 
@@ -49,7 +49,7 @@
 - نیازمند پریمیشن منیج رولز.<br>
 
 <br>
-	مثال:
+	مثال:<br>
 !droles
 
 <br><br>
@@ -58,8 +58,8 @@
 - نیازمند پریمیشن منیج رولز.<br>
 - در صورت نزدن تعداد به صورت پیش فرض ۱۰ رول ساخته میشود.<br>
 <br>
-	مثال:
-!sroles 100 "subscribe paraffin" |
+	مثال:<br>
+!sroles 100 "subscribe paraffin"<br>
 <br><br><br><br>
 
 7 - ⚠ ) !alert 'message' 'time_spamming (how many seconds)'<br>
@@ -67,7 +67,7 @@
 - نیازمند پریمیشن سند مسیج.<br>
 - در صورت نزدن تعداد به صورت پیش فرض ۱۰ پیام داده میشود.<br>
 
-	مثال:
+	مثال:<br>
 !alert "make sure to subscribe to paraffin @everyone" 12 
 <br><br><br><br>
 **❤ Subscribe : https://www.youtube.com/channel/UCo-JLhrtWMQ2xZhJAk8n-pw**
