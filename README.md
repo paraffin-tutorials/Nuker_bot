@@ -43,18 +43,16 @@ Commands:
 - Requires the 'Manage Roles' Permission.
 
 
-6) !sroles 'number of roles' 'role_name'
-> Creates the specified number of roles called the given name.
-- Clone of !spam just with roles.
-- Requires the 'Manage Roles' Permission.
-- !sroles defaults = 10, 'spam'
+6) !sroles 'تعداد رول' 'اسم رول'
+> ساخت رول به تعداد و اسم مورد نظر.
+- نیازمند پریمیشن منیج رولز.
+- در صورت نزدن تعداد به صورت پیش فرض ۱۰ رول ساخته میشود.
 
 	EXAMPLE:
-!sroles 100 "subscribe" (creates 100 roles named 'subscribe')
-!sroles (creates 10 roles named 'spam')
+!sroles 100 "subscribe paraffin"
 
 
-7) !alert 'message' 'time_spamming (how many seconds)'
+7) !alert 'مسیج' 'سرعت'
 > Spams the given message for the specified time.
 - Requires the 'Send Messages' Permission.
 - !alert defaults = '@everyone', 10
