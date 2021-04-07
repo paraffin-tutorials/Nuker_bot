@@ -9,7 +9,7 @@
 - نیازمند پریمیشن منیج چنل
 <br>
 	مثال:<br>
-!nuk
+!nuke
 <br><br>
 
 2 - ♨ ) !spam 'number of channels' 'channel_name'<br>
